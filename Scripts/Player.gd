@@ -6,7 +6,7 @@ const CHUNK_LENGTH = 384
 onready var raycast = get_node("RayCast2D")
 onready var camera = get_node("../Camera2D")
 
-var chunk = preload("res://Assets/DebugChunk.tscn")
+var chunk = preload("res://Assets/Chunks/DebugChunk.tscn")
 var last_chunk = null
 
 # Called when the node enters the scene tree for the first time.
@@ -23,8 +23,9 @@ func _input(event):
 		move_direction("right")
 
 
-func _process(delta):
-	check_next_chunk()
+func _physics_process(delta):
+	#check_next_chunk()
+	pass
 
 
 func move_direction(dir):
@@ -42,14 +43,12 @@ func check_next_chunk():
 		print("Map chunk not found, spawning...")
 		var new_chunk = chunk.instance()
 		get_tree().get_current_scene().add_child(new_chunk)
-		new_chunk.position.y = (last_chunk.position.y - CHUNK_LENGTH)
-		
+		new_chunk.position = Vector2(last_chunk.position.x,
+									 last_chunk.position.y - CHUNK_LENGTH)
 	else:
 		if (last_chunk == raycast.get_collider()):
 			pass
 		else:
 			print("Setting last known chunk")
 			last_chunk = raycast.get_collider()
-			
-		
 	pass
