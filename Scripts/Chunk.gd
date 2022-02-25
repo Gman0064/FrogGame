@@ -10,5 +10,5 @@ func _ready():
 
 func _physics_process(delta):
 	if (position):
-		if (self.position.y > (player.position.y + 300)):
+		if (self.position.y > (player.position.y + 400)):
 			self.queue_free()

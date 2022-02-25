@@ -43,7 +43,7 @@ script = ExtResource( 1 )
 __meta__ = {
 "_edit_group_": true
 }
-height = 96
+height = 192
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 shape = SubResource( 2 )

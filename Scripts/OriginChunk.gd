@@ -1,19 +1,24 @@
 extends StaticBody2D
 
-const ORIGIN_HEIGHT = 64
+const ORIGIN_HEIGHT = 128
+
+onready var root = get_parent()
 
 var chunks = []
 
 # Called when the node enters the scene tree for the first time.
 func _ready():
 	load_chunks()
-	
 	var previous_chunk
-	
+	var rng = RandomNumberGenerator.new()
 	for i in range(0,3):
-		var chunk = load(chunks[0])
+		rng.randomize()
+		var rand_index = rng.randi_range(0, len(chunks) - 1)
+		var chunk = load(chunks[rand_index])
 		var new_chunk = chunk.instance()
-		print(new_chunk)
+		
+		root.call_deferred("add_child", new_chunk)
+		
 		new_chunk.position.x = self.position.x
 		
 		if (i == 0):
@@ -24,10 +29,8 @@ func _ready():
 			new_chunk.position.y = (previous_chunk.position.y -
 									previous_chunk.height - 
 									new_chunk.height)
-		
+
 		previous_chunk = new_chunk
-		
-		get_tree().get_root().get_node("Debug").add_child(new_chunk)
 
 
 func load_chunks():
