@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Kumasi Groove.mp3-b88af85de3f6fe91d26c0910e7d3ad92.mp3str"
+
+[deps]
+
+source_file="res://Music/Kumasi Groove.mp3"
+dest_files=[ "res://.import/Kumasi Groove.mp3-b88af85de3f6fe91d26c0910e7d3ad92.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

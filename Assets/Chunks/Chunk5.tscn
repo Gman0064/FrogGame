@@ -1,0 +1,45 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://Scripts/Chunk.gd" type="Script" id=1]
+[ext_resource path="res://Tileset.tres" type="TileSet" id=2]
+[ext_resource path="res://Assets/Coin.tscn" type="PackedScene" id=3]
+[ext_resource path="res://Assets/Enemy.tscn" type="PackedScene" id=4]
+
+[sub_resource type="RectangleShape2D" id=2]
+extents = Vector2( 256, 192 )
+
+[node name="Chunk" type="StaticBody2D"]
+collision_layer = 2
+collision_mask = 2
+script = ExtResource( 1 )
+height = 192
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource( 2 )
+
+[node name="TileMap" type="TileMap" parent="."]
+position = Vector2( -32, 0 )
+scale = Vector2( 0.5, 0.5 )
+tile_set = ExtResource( 2 )
+cell_size = Vector2( 128, 128 )
+collision_layer = 4
+collision_mask = 4
+format = 1
+tile_data = PoolIntArray( -131073, 6, 0, -196608, 2, 0, -196607, 6, 0, -196606, 6, 0, -196605, 6, 0, -65537, 6, 0, -131072, 4, 0, -131069, 6, 0, -3, 6, 0, -2, 6, 0, -1, 6, 0, -65536, 0, 0, -65535, 6, 0, -65534, 6, 0, -65533, 6, 0, 65533, 6, 0, 65534, 4, 0, 1, 6, 0, 131069, 6, 0, 131070, 6, 0, 131071, 6, 0, 65536, 1, 0, 65537, 6, 0, 196607, 6, 0, 131072, 2, 0, 131073, 6, 0 )
+
+[node name="Coin3" parent="." instance=ExtResource( 3 )]
+position = Vector2( 0, -32 )
+
+[node name="Coin2" parent="." instance=ExtResource( 3 )]
+position = Vector2( -128, 32 )
+
+[node name="Coin" parent="." instance=ExtResource( 3 )]
+position = Vector2( 128, -96 )
+
+[node name="Enemy" parent="." instance=ExtResource( 4 )]
+position = Vector2( 128, 96 )
+rotation = 1.5708
+
+[node name="Enemy2" parent="." instance=ExtResource( 4 )]
+position = Vector2( -120, -32 )
+rotation = -1.5708

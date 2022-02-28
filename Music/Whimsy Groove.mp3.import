@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Whimsy Groove.mp3-f5be528d2e46e3a3aea1bdd433d0cce9.mp3str"
+
+[deps]
+
+source_file="res://Music/Whimsy Groove.mp3"
+dest_files=[ "res://.import/Whimsy Groove.mp3-f5be528d2e46e3a3aea1bdd433d0cce9.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -19,37 +19,78 @@
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="2"
-     inkscape:cx="38.75"
-     inkscape:cy="180"
-     inkscape:window-width="1920"
-     inkscape:window-height="1043"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:zoom="1"
+     inkscape:cx="510"
+     inkscape:cy="77.5"
+     inkscape:window-width="1852"
+     inkscape:window-height="1016"
+     inkscape:window-x="68"
+     inkscape:window-y="1107"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
-     id="defs2" />
+     id="defs2">
+    <rect
+       x="99.499756"
+       y="350.3252"
+       width="258.82077"
+       height="48.955994"
+       id="rect7850" />
+    <rect
+       x="99.499756"
+       y="350.3252"
+       width="258.82077"
+       height="48.955994"
+       id="rect7850-3" />
+    <rect
+       x="99.499756"
+       y="350.3252"
+       width="258.82077"
+       height="48.955994"
+       id="rect7850-3-5" />
+    <rect
+       x="99.499756"
+       y="350.3252"
+       width="258.82077"
+       height="48.955994"
+       id="rect7850-6" />
+    <rect
+       x="99.499756"
+       y="350.3252"
+       width="258.82077"
+       height="48.955994"
+       id="rect7850-6-1" />
+  </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
     <path
        style="fill:#71c837;stroke:#5aa02c;stroke-width:1.08099px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 59.418246,14.297555 c 7.006859,-1.026595 7.006859,-1.026595 7.006859,-1.026595 1.261199,-2.153708 1.713196,-3.126275 1.527978,-6.2889319 l -1.175127,-3.365897 1.688315,0.6627128 1.272198,-1.8725603 0.598102,1.8720864 1.617973,0.015934 -1.956573,2.7431089 c 0,0 1.050606,5.2457581 -1.988718,8.7093011 l -9.740097,0.372936"
+       d="m 69.125793,14.937293 c 7.006859,-1.026595 7.006859,-1.026595 7.006859,-1.026595 1.261199,-2.153708 1.713196,-3.126275 1.527978,-6.2889318 l -1.175127,-3.365897 1.688315,0.6627128 1.272198,-1.8725603 0.598102,1.8720864 1.617973,0.015934 -1.956573,2.7431089 c 0,0 1.050606,5.245758 -1.988718,8.709301 l -9.740097,0.372936"
        id="path44589"
-       sodipodi:nodetypes="ccccccccccc" />
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="/home/garrett/Documents/Godot/Projects/FrogGame/Sprites/frog1jump.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:#71c837;stroke:#5aa02c;stroke-width:1.08099px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 56.16244,13.914499 C 49.155581,12.887905 49.155581,12.887905 49.155581,12.887905 47.894382,10.734196 47.442385,9.7616294 47.627603,6.5989722 L 48.80273,3.233071 47.114416,3.895788 45.842217,2.0232277 45.244115,3.89531 43.626142,3.911244 45.582715,6.6543529 c 0,0 -1.050606,5.2457621 1.988719,8.7093011 l 9.740096,0.372977"
+       d="M 65.869987,14.554237 C 58.863128,13.527643 58.863128,13.527643 58.863128,13.527643 57.601929,11.373934 57.149932,10.401367 57.33515,7.2387103 l 1.175127,-3.3659012 -1.688314,0.662717 -1.272199,-1.8725603 -0.598102,1.8720823 -1.617973,0.015934 1.956573,2.7431089 c 0,0 -1.050606,5.245762 1.988719,8.709301 l 9.740096,0.372977"
        id="path44589-7"
-       sodipodi:nodetypes="ccccccccccc" />
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="/home/garrett/Documents/Godot/Projects/FrogGame/Sprites/frog1jump.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <g
-       id="g76431">
+       id="g76431"
+       inkscape:export-filename="/home/garrett/Documents/Godot/Projects/FrogGame/Sprites/frog_front.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="matrix(1.511957,0,0,1.511957,102.28996,17.81603)">
       <path
          style="fill:#71c837;stroke:#5aa02c;stroke-width:1.07716px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 15.544612,14.620344 c 0,0 0,0 -1.525886,7.789224 -2.227951,1.057344 -3.409788,1.128925 -5.637739,0.196195 -1.8462729,-8.08928 -1.8462729,-8.08928 -1.8462729,-8.08928"
@@ -81,7 +122,7 @@
          id="path911"
          sodipodi:nodetypes="ccccc" />
       <path
-         style="fill:#447821;stroke:#447821;stroke-width:0.52916667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#447821;stroke:#447821;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
          id="path8813"
          sodipodi:type="arc"
          sodipodi:cx="15.157999"
@@ -94,7 +135,7 @@
          sodipodi:arc-type="arc"
          d="m 15.636538,6.7168674 a 0.47853917,0.50601441 0 0 1 -0.475181,0.506002 0.47853917,0.50601441 0 0 1 -0.48185,-0.4989016 0.47853917,0.50601441 0 0 1 0.46842,-0.5130027 0.47853917,0.50601441 0 0 1 0.488423,0.491703" />
       <path
-         style="fill:#447821;stroke:#447821;stroke-width:0.52916667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#447821;stroke:#447821;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
          id="path8813-6"
          sodipodi:type="arc"
          sodipodi:cx="6.4763637"
@@ -179,7 +220,10 @@
     </g>
     <g
        id="g50495"
-       transform="matrix(4.0984324,0,0,4.0984324,-63.02638,-38.717578)">
+       transform="matrix(4.0984324,0,0,4.0984324,-59.391872,-38.58653)"
+       inkscape:export-filename="/home/garrett/Documents/Godot/Projects/FrogGame/Sprites/frog1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <path
          style="fill:#71c837;stroke:#5aa02c;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
          d="m 25.746356,14.704633 c 0.615806,0.36565 0.317604,0.639326 0.146341,0.653503 -1.223337,0.02499 -1.218293,0.182851 -1.815632,-0.715736"
@@ -213,9 +257,12 @@
     </g>
     <path
        style="fill:#71c837;stroke:#5aa02c;stroke-width:1.08099px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 47.598779,21.460489 c -0.335594,1.481268 3.764041,5.385299 3.764041,5.385299 l -3.515088,3.977727 2.603103,-0.676943 -1.024728,3.145776 2.385461,-1.528412 0.708713,2.539702 2.281193,-7.586049 -1.118792,-3.299326 4.321942,-2.436928 4.836783,2.307365 -1.265498,3.311366 2.161892,7.492399 0.766541,-2.630497 1.651295,1.849444 -0.240602,-2.836564 2.675304,1.18848 -3.971019,-5.30339 c 0,0 4.53278,-2.625276 4.192692,-4.695964 -0.264748,-1.612098 -4.262025,-2.419875 -4.262025,-2.419875 2.103782,-2.814375 0.437517,-3.979182 -1.821601,-6.057021 1.915125,-1.005533 3.331815,-2.539505 3.727916,-4.6999875 C 65.526762,0.28637139 59.64262,-0.40846266 59.521931,4.6177301 L 56.46371,4.5891311 c -0.247139,-4.58270643 -6.175589,-4.07451601 -7.02276,4.0434161 0.350792,1.8410348 1.974419,3.3252608 4.026216,4.5786038 -2.241909,2.877636 -2.763799,3.783558 -1.683069,6.008655 0,0 -3.835654,0.697375 -4.185318,2.240724 z"
+       d="m 57.306326,22.100227 c -0.335594,1.481268 3.764041,5.385299 3.764041,5.385299 l -3.515088,3.977727 2.603103,-0.676943 -1.024728,3.145776 2.385461,-1.528412 0.708713,2.539702 2.281193,-7.586049 -1.118792,-3.299326 4.321942,-2.436928 4.836783,2.307365 -1.265498,3.311366 2.161892,7.492399 0.766541,-2.630497 1.651295,1.849444 -0.240602,-2.836564 2.675304,1.18848 -3.971019,-5.30339 c 0,0 4.53278,-2.625276 4.192692,-4.695964 -0.264748,-1.612098 -4.262025,-2.419875 -4.262025,-2.419875 2.103782,-2.814375 0.437517,-3.979182 -1.821601,-6.057021 1.915125,-1.005533 3.331815,-2.539505 3.727916,-4.6999874 -0.92954,-8.20071913 -6.813682,-8.89555318 -6.934371,-3.8693604 l -3.058221,-0.028599 c -0.247139,-4.58270645 -6.175589,-4.074516 -7.02276,4.0434161 0.350792,1.8410347 1.974419,3.3252607 4.026216,4.5786037 -2.241909,2.877636 -2.763799,3.783558 -1.683069,6.008655 0,0 -3.835654,0.697375 -4.185318,2.240724 z"
        id="path37600"
-       sodipodi:nodetypes="sccccccccccccccccccccccccccs" />
+       sodipodi:nodetypes="sccccccccccccccccccccccccccs"
+       inkscape:export-filename="/home/garrett/Documents/Godot/Projects/FrogGame/Sprites/frog1jump.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <path
        style="fill:#de8787;stroke:#c83737;stroke-width:1.19062;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="path49137"
@@ -228,10 +275,16 @@
        sodipodi:end="6.2551204"
        sodipodi:open="true"
        sodipodi:arc-type="arc"
-       d="m 13.024348,28.794966 a 1.8520833,1.8520833 0 0 1 -1.839088,1.852037 1.8520833,1.8520833 0 0 1 -1.8648959,-1.826049 1.8520833,1.8520833 0 0 1 1.8129199,-1.877661 1.8520833,1.8520833 0 0 1 1.890335,1.799701" />
+       d="m 13.024348,28.794966 a 1.8520833,1.8520833 0 0 1 -1.839088,1.852037 1.8520833,1.8520833 0 0 1 -1.8648959,-1.826049 1.8520833,1.8520833 0 0 1 1.8129199,-1.877661 1.8520833,1.8520833 0 0 1 1.890335,1.799701"
+       inkscape:export-filename="/home/garrett/Documents/Godot/Projects/FrogGame/Sprites/tongue_end.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <g
        id="g58533"
-       transform="matrix(0.80033176,0,0,0.80033176,-2.470992,4.3658019)">
+       transform="matrix(2.1064834,0,0,2.1064834,38.934373,-27.137703)"
+       inkscape:export-filename="/home/garrett/Documents/Godot/Projects/FrogGame/Sprites/bongo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <path
          style="fill:#552200;stroke:#2b1100;stroke-width:0.926042;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 10.674252,40.21381 0.983191,5.292927 c 1.378155,0.601352 2.815226,1.011389 4.716171,-0.08489 l 0.182857,-5.618914 c -0.441839,1.090704 -1.333279,1.87245 -2.805272,2.011526 -1.569196,0.148259 -2.426605,-0.269333 -3.076947,-1.600649 z"
@@ -306,5 +359,154 @@
          id="path67670"
          sodipodi:nodetypes="cccccccccccccc" />
     </g>
+    <rect
+       style="fill:#e3dbdb;stroke:#c8b7b7;stroke-width:1.87175;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1827"
+       width="70.557167"
+       height="17.235788"
+       x="19.908436"
+       y="89.081314"
+       rx="5.8492188"
+       ry="5.8492188"
+       inkscape:export-filename="/home/garrett/Documents/Godot/Projects/FrogGame/Sprites/UI/play.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.23396875,0,0,0.23396875,2.1941562,10.199191)"
+       id="text7848"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;white-space:pre;shape-inside:url(#rect7850);fill:#000000;fill-opacity:1;stroke:none"
+       x="39.150391"
+       y="0"
+       inkscape:export-filename="/home/garrett/Documents/Godot/Projects/FrogGame/Sprites/UI/play.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="181.47852"
+         y="385.71484"
+         id="tspan55684">Play</tspan></text>
+    <rect
+       style="fill:#e3dbdb;stroke:#c8b7b7;stroke-width:1.87175;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1827-2"
+       width="70.557167"
+       height="17.235788"
+       x="96.278397"
+       y="89.764725"
+       rx="5.8492188"
+       ry="5.8492188"
+       inkscape:export-filename="/home/garrett/Documents/Godot/Projects/FrogGame/Sprites/UI/play_again.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.23396875,0,0,0.23396875,78.564119,10.882601)"
+       id="text7848-9"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;white-space:pre;shape-inside:url(#rect7850-6);fill:#000000;fill-opacity:1;stroke:none"
+       x="39.150391"
+       y="0"
+       inkscape:export-filename="/home/garrett/Documents/Godot/Projects/FrogGame/Sprites/UI/play_again.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="110.13086"
+         y="385.71484"
+         id="tspan55686">Play Again</tspan></text>
+    <rect
+       style="fill:#e3dbdb;stroke:#c8b7b7;stroke-width:1.87175;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1827-2-2"
+       width="70.557167"
+       height="17.235788"
+       x="95.472786"
+       y="112.9987"
+       rx="5.8492188"
+       ry="5.8492188"
+       inkscape:export-filename="/home/garrett/Documents/Godot/Projects/FrogGame/Sprites/UI/back.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.23396875,0,0,0.23396875,77.758511,34.116564)"
+       id="text7848-9-7"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;white-space:pre;shape-inside:url(#rect7850-6-1);fill:#000000;fill-opacity:1;stroke:none"
+       x="39.150391"
+       y="0"
+       inkscape:export-filename="/home/garrett/Documents/Godot/Projects/FrogGame/Sprites/UI/back.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="175.01367"
+         y="385.71484"
+         id="tspan55688">Back</tspan></text>
+    <rect
+       style="fill:#e3dbdb;stroke:#c8b7b7;stroke-width:1.87175;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1827-6"
+       width="70.557167"
+       height="17.235788"
+       x="19.89864"
+       y="110.83341"
+       rx="5.8492188"
+       ry="5.8492188"
+       inkscape:export-filename="/home/garrett/Documents/Godot/Projects/FrogGame/Sprites/UI/Instructions.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.23396875,0,0,0.23396875,2.1843621,31.951284)"
+       id="text7848-7"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;white-space:pre;shape-inside:url(#rect7850-3);fill:#000000;fill-opacity:1;stroke:none"
+       x="39.150391"
+       y="0"
+       inkscape:export-filename="/home/garrett/Documents/Godot/Projects/FrogGame/Sprites/UI/Instructions.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="103.37305"
+         y="385.71484"
+         id="tspan55690">Instuctions</tspan></text>
+    <rect
+       style="fill:#e3dbdb;stroke:#c8b7b7;stroke-width:1.87175;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1827-6-3"
+       width="70.557167"
+       height="17.235788"
+       x="20.529495"
+       y="132.40211"
+       rx="5.8492188"
+       ry="5.8492188"
+       inkscape:export-filename="/home/garrett/Documents/Godot/Projects/FrogGame/Sprites/UI/quit.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.23396875,0,0,0.23396875,2.8152164,53.519977)"
+       id="text7848-7-5"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;white-space:pre;shape-inside:url(#rect7850-3-5);fill:#000000;fill-opacity:1;stroke:none"
+       x="39.150391"
+       y="0"
+       inkscape:export-filename="/home/garrett/Documents/Godot/Projects/FrogGame/Sprites/UI/quit.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="181.25391"
+         y="385.71484"
+         id="tspan55692">Quit</tspan></text>
+    <rect
+       style="fill:#4d4d4d;stroke:#666666;stroke-width:2.88011;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect41464"
+       width="83.88356"
+       height="106.79486"
+       x="5.3241348"
+       y="168.96536"
+       rx="5.8318138"
+       ry="6.1734891"
+       inkscape:export-filename="/home/garrett/Documents/Godot/Projects/FrogGame/Sprites/UI/panel.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4d4d4d;stroke:#666666;stroke-width:2.88011;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect41464-0"
+       width="146.52512"
+       height="28.24312"
+       x="49.489384"
+       y="238.88922"
+       rx="5.8318138"
+       ry="6.1734891"
+       inkscape:export-filename="/home/garrett/Documents/Godot/Projects/FrogGame/Sprites/UI/hud_panel.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
   </g>
 </svg>
